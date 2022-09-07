@@ -1,7 +1,7 @@
 ---
 title: Annotate & Extract
 
-permalink: searchassist/topic-guide/en/latest/KG Annotation Tool
+permalink: searchassist/topic-guide/en/latest/FAQ
 
 ---
 #### Topic Guide
